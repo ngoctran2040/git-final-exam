@@ -13,8 +13,13 @@
 8. Luyện nói Anh Văn.
 9. Tổng hợp ghi chú cuối tuần.
 10. Chuẩn bị kiến thức cho tuần kế.
+<<<<<<< Updated upstream
 11. Thực hành Git reset và revert.
 12. Học thêm về Git stash.
 13. Viết báo cáo ngắn cho môn Git.
 14. Ôn lại branching và merge.
 
+=======
+15. Thực hành GitHub Actions cơ bản.
+16. Tổng kết kiến thức Git cuối khóa.
+>>>>>>> Stashed changes
