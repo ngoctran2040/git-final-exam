@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, this is Nguyễn Ngọc Trân.
+=======
+Xin chào, tôi tên là Nguyễn Ngọc Trân.
+>>>>>>> feature-update
 Tôi là sinh viên ngành CNTT.
 Tôi đang học ở trường ĐH NAM CẦN THƠ
 Tôi hiện là sinh viên năm 4
@@ -20,3 +24,4 @@ Kế hoạch học tập:
 3. Tìm hiểu sâu hơn về CSDL.  
 4. Luyện tập giải thuật trên LeetCode.  
 5. Tham gia dự án nhóm để rèn luyện teamwork.
+Conflict resolved on 20/09/2025
