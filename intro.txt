@@ -13,3 +13,10 @@ Kỹ năng:
 1.HTML/CSS/JS cơ bản.
 2. Thiết kế giao diện.
 3. Giao tiếp nhóm.
+
+Kế hoạch học tập:  
+1. Hoàn thành khóa học Git và GitHub.  
+2. Nâng cao kỹ năng lập trình Python.  
+3. Tìm hiểu sâu hơn về CSDL.  
+4. Luyện tập giải thuật trên LeetCode.  
+5. Tham gia dự án nhóm để rèn luyện teamwork.
