@@ -1,0 +1,15 @@
+Xin chào, tôi là Nguyễn Ngọc Trân.
+Tôi là sinh viên ngành CNTT.
+Tôi đang học ở trường ĐH NAM CẦN THƠ
+Tôi hiện là sinh viên năm 4
+Quê quán của tôi là Bạc Liêu
+
+Sở thích:
+1. Chơi game.
+2. Vẽ.
+3. Nghe nhạc.
+
+Kỹ năng:
+1.HTML/CSS/JS cơ bản.
+2. Thiết kế giao diện.
+3. Giao tiếp nhóm.
