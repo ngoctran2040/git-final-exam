@@ -1,0 +1,7 @@
+# New Feature Description
+
+1. Tính năng cho phép người dùng đăng nhập.
+2. Lưu trữ thông tin trong cơ sở dữ liệu.
+3. Hỗ trợ xác thực bằng email.
+4. Có giao diện thân thiện, dễ sử dụng.
+5. Bảo mật bằng mã hóa mật khẩu.
